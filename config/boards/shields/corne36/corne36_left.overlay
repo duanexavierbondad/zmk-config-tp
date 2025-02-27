@@ -37,5 +37,3 @@
 		status = "okay";
 		sensors = <&s_encoder>;
 };
-
-#include "corne36__buzzer.dtsi"
